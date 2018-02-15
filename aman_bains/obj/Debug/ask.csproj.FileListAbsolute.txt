@@ -1,0 +1,66 @@
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\ApplicationInsights.config
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\csc.exe
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\vbc.exe
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\VBCSCompiler.exe
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\ask.dll.config
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\ask.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\ask.pdb
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.Web.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.ApplicationInsights.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.Web.xml
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.ApplicationInsights.xml
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\obj\Debug\ask.csprojResolveAssemblyReference.cache
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\obj\Debug\ask.dll
+c:\users\sidharth\documents\visual studio 2015\Projects\ask\ask\obj\Debug\ask.pdb
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\ApplicationInsights.config
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\csc.exe
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\vbc.exe
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\VBCSCompiler.exe
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\ask.dll.config
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\ask.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\ask.pdb
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.Web.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.Web.xml
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\obj\Debug\ask.csprojResolveAssemblyReference.cache
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\obj\Debug\ask.dll
+C:\Users\sidharth\Documents\Visual Studio 2015\Projects\aman bains\ask\obj\Debug\ask.pdb
